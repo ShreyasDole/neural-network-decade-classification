@@ -151,7 +151,7 @@ plt.show()
 
 ## ✍️ Authors
 
-- **Your Name** - [@yourusername](https://github.com/ShreyasDole)
+- **Your Name** - [@ShreyasDole](https://github.com/ShreyasDole)
 
 ---
 
